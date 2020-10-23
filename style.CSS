@@ -1,0 +1,15 @@
+.box{
+    width: 400px;
+    height:200px;
+    border: 5px solid purple;
+    overflow: scroll;
+}
+.box2{
+    border: 4px solid palevioletred;
+    width: 400px;
+    height: 200px;
+}
+.imeges .logo{
+   height: 100px;
+   width: 100px;
+}
